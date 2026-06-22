@@ -1,5 +1,6 @@
 <?php
 // 1. Import semua file koneksi dan class yang diperlukan
+//pbo
 require_once 'koneksi.php';
 require_once 'Karyawan.php';
 require_once 'KaryawanKontrak.php';
