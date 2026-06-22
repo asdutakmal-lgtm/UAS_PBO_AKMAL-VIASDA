@@ -3,7 +3,7 @@
 //pbo
 class Database {
     private $host = "localhost";
-    private $db_name = "nama_database_anda"; // Sesuaikan dengan nama database Anda
+    private $db_name = "db_uas_pbo_ti1c_akmalviasda."; // Sesuaikan dengan nama database Anda
     private $username = "root";              // Sesuaikan dengan username database Anda
     private $password = "";                  // Sesuaikan dengan password database Anda
     public $conn;
