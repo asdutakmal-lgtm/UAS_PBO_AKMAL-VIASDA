@@ -1,6 +1,6 @@
 <?php
 // file: Karyawan.php
-
+//pbo
 abstract class Karyawan {
     // Properti/Atribut Terenkapsulasi (protected)
     protected $id_karyawan;

@@ -1,6 +1,6 @@
 <?php
 // file: koneksi.php
-
+//pbo
 class Database {
     private $host = "localhost";
     private $db_name = "nama_database_anda"; // Sesuaikan dengan nama database Anda
