@@ -1,6 +1,7 @@
 <?php
 // file: koneksi.php
 //pbo
+//pbo
 class Database {
     private $host = "localhost";
     private $db_name = "db_uas_pbo_ti1c_akmalviasda."; // Sesuaikan dengan nama database Anda
